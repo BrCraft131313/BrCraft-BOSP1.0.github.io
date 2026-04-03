@@ -15,3 +15,4 @@ The system is currently under development.
 Its public release might be delayed because I have to go to school the day after tomorrow.
 But I'm trying to release it to the public as soon as possible.
 my regards - BrCraft131313 - I believe in and love open-source things.
+(Please i want Someone is creating an application for devices with locked bootloaders, like Honor. It's an emulator, but you can install any system you want and replace Android with this system, so I can test the system on HONOR Pad X8a - HONOR X5b)

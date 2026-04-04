@@ -19,3 +19,4 @@ my regards - BrCraft131313 - I believe in and love open-source things.
 (Note: The system will not be limited to this kernel and system version - rather it is a comprehensive repository for all versions of this system with all Linux kernel versions)
 Please, if you want to support me but also want to create a distribution based on this system, use the button. fork
 This project is licensed under the GPLv3. If you redistribute or modify this software, you must credit the original author and keep it open-source
+Only clean, fast, and logical code enters the BOSP repository.
